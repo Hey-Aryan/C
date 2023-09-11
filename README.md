@@ -1,32 +1,32 @@
 # C
 This Repository Contains Basic C Programs 
 
-o Pointer in C
-o Memory layout of pointers
-o Types of pointers
-o Pointer arithmetic 
-o Operations on void pointer
-o Null pointer and Dangling pointer
-o Function pointers
-o Pointer to array and array of pointers
-o C Preprocessor
-o Macro expansion
-o Types of macros
-o Header files contents and its inclusion
-o Conditional compilation techniques
-o Tokenization process
-o Writing user defined functions
-o Working of User stack
-o Contents of stack frame
-o Function Calling Techniques
-o Call by value technique
-o Call by address technique
-o Function Returning Mechanism
-o Return by value technique
-o Return by address technique
-o Padding and memory alignment
-o Contents inside structure and union 
-o Pragma directives
-o Bitfield use in structure 
+• Pointer in C
+• Memory layout of pointers
+• Types of pointers
+• Pointer arithmetic 
+• Operations on void pointer
+• Null pointer and Dangling pointer
+• Function pointers
+• Pointer to array and array of pointers
+• C Preprocessor
+• Macro expansion
+• Types of macros
+• Header files contents and its inclusion
+• Conditional compilation techniques
+• Tokenization process
+• Writing user defined functions
+• Working of User stack
+• Contents of stack frame
+• Function Calling Techniques
+• Call by value technique
+• Call by address technique
+• Function Returning Mechanism
+• Return by value technique
+• Return by address technique
+• Padding and memory alignment
+• Contents inside structure and union 
+• Pragma directives
+• Bitfield use in structure 
 
 The Sub_Folder File_Handling Contains Basic file handling system programs
