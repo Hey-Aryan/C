@@ -1,5 +1,5 @@
 # C
-This Repository Contains Basic C Programs 
+This Repository Contains C Programs 
 
 • Pointer in C
 • Memory layout of pointers
